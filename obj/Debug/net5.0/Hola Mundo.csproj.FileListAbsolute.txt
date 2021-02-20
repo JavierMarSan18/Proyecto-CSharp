@@ -1,0 +1,16 @@
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.exe
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.deps.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.runtimeconfig.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.runtimeconfig.dev.json
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\ref\Hola Mundo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\bin\Debug\net5.0\Hola Mundo.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.csprojAssemblyReference.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.AssemblyInfoInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.AssemblyInfo.cs
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\ref\Hola Mundo.dll
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.pdb
+C:\Users\Marroquín\Desktop\Documentos Javier\Tareas y examenes\3er Semestre\Programación I\Tareas\Tarea 1 20-02-2021\Hola Mundo\obj\Debug\net5.0\Hola Mundo.genruntimeconfig.cache
